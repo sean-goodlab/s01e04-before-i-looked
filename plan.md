@@ -1,9 +1,8 @@
 ---
 plan: morning-digest
-status: done
+status: open
 owner: rook
 opened: 2026-10-29
-closed: 2026-11-01
 ---
 
 # Morning digest
@@ -89,5 +88,5 @@ Done when: the preview link no longer shows the lane marker.
 | 4 | Digest JSON | #1 | Cursor · Grok 4.7 · high | 2026-11-01 |
 | 5 | Board link | #1 | Cursor · Grok 4.7 · high | 2026-11-01 |
 | 6 | Route tests | #1 | Cursor · Grok 4.7 · high | 2026-11-01 |
-| 7 | Preview for review | #2, #3 | Cursor · Grok 4.7 · high | 2026-11-01 |
-| 8 | Clean up | #7 | Cursor · Grok 4.7 · high | 2026-11-01 |
+| 7 | Preview for review | #2, #3 | — | open |
+| 8 | Clean up | #7 | — | open |
